@@ -1,3 +1,8 @@
 {
-  "contributors": ["wolfgangcolsman","kaojunsong"]
+  "contributors": ["wolfgangcolsman", "kaojunsong"],
+  "botWhitelist": [
+    "copilot-swe-agent[bot]",
+    "dependabot[bot]",
+    "github-actions[bot]"
+  ]
 }
