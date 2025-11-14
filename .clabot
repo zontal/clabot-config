@@ -3,6 +3,7 @@
   "botWhitelist": [
     "copilot-swe-agent[bot]",
     "dependabot[bot]",
-    "github-actions[bot]"
+    "github-actions[bot]",
+    "Copilot"
   ]
 }
